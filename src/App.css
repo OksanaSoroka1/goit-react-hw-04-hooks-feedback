@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+ul,
+section,
+p,
+h1,
+h2,
+li {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,8 @@
+.item:not(:last-child) {
+  margin-bottom: 5px;
+}
+.text {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+}
